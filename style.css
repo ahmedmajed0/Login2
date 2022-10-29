@@ -205,7 +205,7 @@ form.sign-in-form {
 
 .right-panel {
   pointer-events: none;
-  padding: 3rem 12% 2rem 17%;
+  padding: 6rem 30% 2rem 12%;
 }
 
 .panel .content {
@@ -275,7 +275,8 @@ form.sign-in-form {
   pointer-events: none;
 }
 
-.container.sign-up-mode .right-panel {
+.container.sign-up-mode .
+{
   pointer-events: all;
 }
 
