@@ -408,3 +408,12 @@ form.sign-in-form {
     left: 50%;
   }
 }
+
+@media (max-width: 380px){
+  .signin-signup .sign-in-form .forgot{
+    color: #5995fd;
+    display: block;
+    margin-left: 0px;
+    margin-bottom: 30px;
+  }
+}
